@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1739964853,
+	"version": 1739966608,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,10 @@
 		"media/tap.ogg",
 		"media/game over (1).m4a",
 		"media/game over (1).ogg",
+		"media/gwen save.m4a",
+		"media/gwen save.ogg",
+		"media/web shoot.m4a",
+		"media/web shoot.ogg",
 		"media/bg.m4a",
 		"media/bg.ogg",
 		"icon-16.png",
